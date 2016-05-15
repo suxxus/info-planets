@@ -1,0 +1,13 @@
+<div class="main-container">
+	<section class="article">
+		<h2>Planets Radiouses</h2>
+ 			{{#if model }}
+ 				{{#bar-chart planets=model  clickHandler='clickHandler' id="chart" class="chart-container" }}
+ 				{{/bar-chart}} 	
+ 			{{/if}}
+ 		{{outlet}}
+ 	</section>
+</div>
+
+
+

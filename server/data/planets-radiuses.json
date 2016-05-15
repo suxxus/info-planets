@@ -1,0 +1,38 @@
+{
+  "radiusUnit": "km",
+  "planetsRadius": [
+    {
+      "planet": "Mercury",
+      "radius": "2439"
+    },
+    {
+      "planet": "Venus",
+      "radius": "6051.8"
+    },
+    {
+      "planet": "Earth",
+      "radius": "6371"
+    },
+    {
+      "planet": "Mars",
+      "radius": "3389"
+    },
+    {
+      "planet": "Jupiter",
+      "radius": "69911"
+    },
+    {
+      "planet": "Saturn",
+      "radius": "58232"
+    },
+    {
+      "planet": "Uranus",
+      "radius": "25362"
+    },
+    {
+      "planet": "Neptune",
+      "radius": "24622"
+    }
+
+  ]
+}
