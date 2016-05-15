@@ -18,3 +18,6 @@ bower install
 * node server/server.js
 * cd ./client  
 * ember s --proxy http://localhost:8000 (start an ember cli)
+
+## Demo
+[info-planets](https://planets-radiuses.herokuapp.com/planets-radiuses)
